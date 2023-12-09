@@ -1,1 +1,1 @@
-# python_jogo
+# python_jogo_adivinhacao
